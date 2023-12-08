@@ -9,7 +9,7 @@ Run `npm install`.
 3. Navigate to localhost:8000/home. You should see a different message from 1.
 4. Run the cookies/mal.js using Node and load localhost:8001/malhome in your browser in a different tab.
 5. Navigate to localhost:8000/home. You should see the same message as 1. Not the cookie value.
-
+   cookies were not set to http only
 Why did this happen? Repeat the experiment with cookies/secure.js and see if the same thing happens.
 
 ## Sessions
